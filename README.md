@@ -29,18 +29,20 @@ python script.py
 ```
 ### Example Output
 
-Enter first number: 5
+Enter first number: 14
 
-Enter second number: 3
+Enter second number: 11
 
-Addition: 8
+Addition: 25
 
-Subtraction: 2  
+Subtraction: 3  
 
-Multiplication: 15
+Multiplication: 154
 
-Division: 1.666...
+Division: 1.27272727272727
 
+### ScreenShot
+![04.06.2025_23.38.48_REC.png](04.06.2025_23.38.48_REC.png)
 ## 👋 Task 2: Personalized Greeting
 ### Description
 Creates a customized welcome message using a user's full name.
@@ -63,3 +65,6 @@ Enter your first name: John
 Enter your last name: Doe
 
 Hello, John Doe! Welcome to our Python program.
+
+### ScreenShot
+![04.06.2025_23.42.24_REC.png](04.06.2025_23.42.24_REC.png)
