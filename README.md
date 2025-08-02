@@ -1,8 +1,14 @@
-# Python Assignment 2 & 3
+# Python Assignment 2, 3 & 4
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
-This repository contains Multiple Python programs demonstrating Control Structure, Function & Python Module concepts as part of Module 1,2 3 & 4 assignments.
+This repository contains Multiple Python programs demonstrating Control Structure, Function & Python Module other important concepts as part of 1 to 4 assignments.
+## 📁 Folders
+| Folder | Description                                                |
+|--------|------------------------------------------------------------|
+| `A1`   | Basic Python Introduction program
+| `A3`   | Python Modules Introduction program
+| `A4`   | Python program- File Management and Exception handling
 
 ## 📁 Files
 
