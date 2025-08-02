@@ -2,7 +2,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue.svg)
 
-This repository contains 4 Python programs demonstrating Control Structure, Function & Python Module concepts as part of Module 3 & 4 assignments.
+This repository contains Multiple Python programs demonstrating Control Structure, Function & Python Module concepts as part of Module 1,2 3 & 4 assignments.
 
 ## 📁 Files
 
@@ -99,3 +99,72 @@ Square Root of 20 is 4.47213595499958
 Natural log of 20 is 2.995732273553991
 
 Sine value of 20 is 0.9129452507276277
+
+## Assignment 4- Module 5: Files, Exceptions, and Errors in Python
+
+| File  in A4 Directory | Description                                                                       |
+|-------|-----------------------------------------------------------------------------------|
+| `Task1.py` | A Simple Python prgram to Read File with error handling                           |
+| `task2.py` | A Python programme that takes user input and save or append it in an output file. |
+
+## 👋 Task1 A4: Read File and Error Handling
+### Description
+This Program show how to read any file using a python program along with proper error handling. 
+
+### Features
+- Use Open Method to connect and open a file 
+- Use Try block for Error handling
+
+### Usage
+```bash
+python task1.py
+```
+
+### Example Output
+
+Reading File Content
+
+ Line 0: Testing documents....
+
+ Line 1: Line 1
+
+ Line 2: Line 2
+
+Line Reading Completed
+
+## 👋 Task2 A4: Write into a File and Append Content
+### Description
+This Program show how to write or append any user input content in a file using a python program. 
+
+### Features
+- Use Open Method to connect and open a file
+- Use Try block for Error handling
+- Use write method with write or append mode 
+- Combine File management with user input handling
+
+### Usage
+```bash
+python task2.py
+```
+
+### Example Output
+
+Enter Text to Write to The File: New Entry into File
+
+Data Successfully Written to output.txt
+
+Enter Additional Text to Append: Append new Line Data
+
+Data Successfully Appended
+
+Final Content of output.txt
+
+This is a new output file written using python program
+
+new line appended
+
+New Entry into File
+
+Append new Line Data
+
+Writing Completed
