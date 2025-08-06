@@ -9,6 +9,7 @@ This repository contains Multiple Python programs demonstrating Control Structur
 | `A1`   | Basic Python Introduction program
 | `A3`   | Python Modules Introduction program
 | `A4`   | Python program- File Management and Exception handling
+| `A5`   | Python program- Data Structure, Dictonry & List
 
 ## 📁 Files
 
@@ -174,3 +175,64 @@ New Entry into File
 Append new Line Data
 
 Writing Completed
+
+## Assignment 5- Module 6: Data Structures and Strings in Python
+
+| File  in A5 Directory | Description                                                        |
+|-----------------------|--------------------------------------------------------------------|
+| `Task1.py`            | A Simple Python program to demonstrate Dictionary use              |
+| `task2.py`            | A Python programme to show to use of List and String Manipulation. |
+
+## 👋 Task1 A5: Create Dictionary of Student Marks
+### Description
+This Program show how to create dictionary in python, we will use sample student marks record for this example. 
+
+### Features
+- Create dictionary 
+- Take user input to sort specific student
+- Display selected students Marks
+
+### Usage
+```bash
+python task1.py
+```
+### Example Output
+
+Available Students in Record
+
+John
+
+Pam
+
+Angela
+
+Tiger
+
+Gordon
+
+Enter Student's name: John
+
+John's marks: 45
+
+## 👋 Task2 A5: Demonstrate List Slicing
+### Description
+This Program show how to create and Slice a List in python. 
+
+### Features
+- Create a new Sample List 
+- Slice the existing list with predefined position value
+- Reverse the sliced list
+- Display the reversed sliced List
+
+
+### Usage
+```bash
+python task2.py
+```
+### Example Output
+
+Original List: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+Extracted First five Elements: [1, 2, 3, 4, 5]
+
+Reversed Extracted Elements: [5, 4, 3, 2, 1]
