@@ -7,6 +7,7 @@ This repository contains Multiple Python programs demonstrating Control Structur
 | Folder | Description                                                |
 |--------|------------------------------------------------------------|
 | `A1`   | Basic Python Introduction program
+| `A2`   | Python Basics program
 | `A3`   | Python Modules Introduction program
 | `A4`   | Python program- File Management and Exception handling
 | `A5`   | Python program- Data Structure, Dictonry & List
